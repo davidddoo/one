@@ -1,0 +1,11 @@
+Model Information:
+* title:	PS1 style Walter White
+* source:	https://sketchfab.com/3d-models/ps1-style-walter-white-0235c18fd3094d09a4131d153471e276
+* author:	thuglifer (https://sketchfab.com/thuglifer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PS1 style Walter White" (https://sketchfab.com/3d-models/ps1-style-walter-white-0235c18fd3094d09a4131d153471e276) by thuglifer (https://sketchfab.com/thuglifer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
